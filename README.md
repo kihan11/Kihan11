@@ -58,10 +58,3 @@
 - **Development Environment:** Version control with Git/GitHub and Linux/Ubuntu workflows.
 
 ---
-
-### GitHub Overview
-
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=kihan11&show_icons=true&theme=tokyonight&hide_border=true" alt="kihan11 GitHub Stats"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kihan11&layout=compact&theme=tokyonight&hide_border=true" alt="kihan11 Top Languages"/>
-</p>
