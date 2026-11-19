@@ -58,3 +58,8 @@
 - **Development Environment:** Version control with Git/GitHub and Linux/Ubuntu workflows.
 
 ---
+
+### Project
+
+- 1. [Mini Project Coding Camp](https://github.com/kihan11/CodingCamp-9Mar26-kihanfaza)
+- 2. [Project Web Penyewaan Outdoor](https://github.com/kihan11/campsupply-id-web-penyewaan-outdoor)
