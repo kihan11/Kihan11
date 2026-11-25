@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:kihanfaza@gmail.com">
+  <a href="mailto:kihanfazaedu@gmail.com">
     <img src="https://img.shields.io/badge/Email-kihanfaza@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://linkedin.com/in/USERNAME-LINKEDIN-LU">
@@ -22,7 +22,7 @@
 - Currently building full-stack web applications and exploring backend architecture, data processing, and system networking.
 - Focused on strengthening skills in **Web Development**, **Database Management**, and **Data Structures & Algorithms**.
 - Actively looking for **Software Engineering / Web Development Internship** opportunities.
-- Contact: **kihanfaza@gmail.com**
+- Contact: **kihanfazaedu@gmail.com**
 
 ---
 
